@@ -2,6 +2,8 @@
 
 Final square logo (radio tower + UFO with faint blue broadcast waves, red DOPE / white circuit BEAT).
 
+These squares are hosted on the VPS at https://radio.dopebeat.xyz/logos/ for directory submissions. Listing sites still mostly show the old DB mark. Updating those is a later task.
+
 ## Sizes
 
 | File | Size | Typical use |
