@@ -4,7 +4,21 @@ Final square logo (radio tower + UFO with faint blue broadcast waves, red DOPE /
 
 These squares are hosted on the VPS at https://radio.dopebeat.xyz/logos/ for directory submissions. Listing sites still mostly show the old DB mark. Updating those is a later task.
 
-## Sizes
+## Title logo (text-only)
+
+| File | Size | Notes |
+|------|------|-------|
+| dopebeat-title-logo.png | 3009×696 | Horizontal DOPEBEAT text, red DOPE + white circuit BEAT. RGBA with transparency. Used as page title on https://radio.dopebeat.xyz/ |
+
+## Banners
+
+| File | Size | Notes |
+|------|------|-------|
+| dopebeat-buymeacoffee.jpg | 1600×400 | BuyMeACoffee cover. JPEG, no transparency. |
+| dopebeat-buymeacoffee.png | — | PNG version. |
+| dopebeat-paypal-banner.png | — | PayPal banner. |
+
+## Square sizes
 
 | File | Size | Typical use |
 |------|------|-------------|
@@ -41,4 +55,6 @@ https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/dopebeat-300x30
 
 https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/dopebeat-logo.png
 
-All files are square PNGs with black background.
+https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/dopebeat-title-logo.png
+
+Square PNGs have black background. Title logo has transparency.
