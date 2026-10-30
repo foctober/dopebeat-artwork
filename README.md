@@ -57,4 +57,17 @@ https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/dopebeat-logo.p
 
 https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/dopebeat-title-logo.png
 
+## Turnip Prophet art
+
+Full-size copies of the left-side pictures from the Turnip Prophet app. Not radio logos. The app keeps these three pieces separate: title logo, field, and turnip.
+
+| File | Size | Notes |
+|------|------|-------|
+| turnip-prophet/field.jpg | 2234×4096 | Grass and sky. JPEG, no transparency. |
+| turnip-prophet/turnip.png | 2500×2500 | White turnip. PNG with transparency. |
+
+https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/turnip-prophet/field.jpg
+
+https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/turnip-prophet/turnip.png
+
 Square PNGs have black background. Title logo has transparency.
