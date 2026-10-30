@@ -63,8 +63,11 @@ Full-size copies of the left-side pictures from the Turnip Prophet app. Not radi
 
 | File | Size | Notes |
 |------|------|-------|
+| turnip-prophet/logo.png | 902×599 | Title logo. PNG with transparency. |
 | turnip-prophet/field.jpg | 2234×4096 | Grass and sky. JPEG, no transparency. |
 | turnip-prophet/turnip.png | 2500×2500 | White turnip. PNG with transparency. |
+
+https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/turnip-prophet/logo.png
 
 https://raw.githubusercontent.com/foctober/dopebeat-artwork/main/turnip-prophet/field.jpg
 
