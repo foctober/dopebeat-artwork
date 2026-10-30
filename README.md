@@ -63,7 +63,7 @@ Full-size copies of the left-side pictures from the Turnip Prophet app. Not radi
 
 | File | Size | Notes |
 |------|------|-------|
-| turnip-prophet/logo.png | 902×599 | Title logo. PNG with transparency. |
+| turnip-prophet/logo.png | 1869×1242 | Title logo. PNG with transparency. Higher resolution than the old 902×599 file. |
 | turnip-prophet/field.jpg | 2234×4096 | Grass and sky. JPEG, no transparency. |
 | turnip-prophet/turnip.png | 2500×2500 | White turnip. PNG with transparency. |
 
